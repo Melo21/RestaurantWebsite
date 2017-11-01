@@ -1,0 +1,111 @@
+body {
+    font-family: sans-serif;
+    background: #BFBA9F;
+}
+
+/*temp div border for layout purposes*/
+div {
+    border:2px solid;
+    background: #BF9663;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+  padding-top:20px;
+}
+
+.nav {
+    position:fixed;
+    display:inline-block;
+    float:left;
+    padding:20px;
+    height:100vh;
+    width:100px;
+    background:WHITE;
+    margin:auto;
+}
+/*
+.logo {
+    display:inline-block;
+    width:100px
+    height:100px;
+    margin-top:20px;
+}
+*/
+.nav-buttons {
+    display:inline-block;
+    margin-top:20px;
+}
+
+.non-nav {
+    margin-left:130px;
+}
+
+.header {
+    height:125px;
+}
+
+.res {
+    height:100px;
+    }
+
+.gallery {
+    text-align:center;
+    padding:10px;
+    margin-top:20px;
+}
+
+.gallery-small {
+    display:inline-block;
+    vertical-align:top;
+    padding:10px;
+}
+
+.gallery-img {
+    width:250px;
+}
+
+.footer {
+    height:200px;
+    margin-top:20px;
+}
+
+.menu-gallery {
+    display:inline-block;
+    width:600px;
+    margin-left:130px;
+}
+
+.menu {
+    display:inline-block;
+    margin-left:6px;
+   }
+   
+.rest-story {
+    height:100px;
+    margin-top:20px;
+    text-align:center;
+}
+
+.chef-story {
+    margin-top:20px;
+    text-align:center;
+    padding:10px;
+    text-align:center;
+}
+   
+.chef {
+    display:inline-block;
+    height:100px;
+    width:40%;
+}
+
+#mainphoto {
+    width:100%;
+}
+
